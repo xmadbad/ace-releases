@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="64" viewBox="0 0 300 64" role="img" aria-label="Download Ace for Windows">
+  <rect x="0.5" y="0.5" width="299" height="63" rx="12" fill="#16181d" stroke="#3b404b"/>
+  <g transform="translate(22 18)" fill="#ffffff">
+    <rect x="0" y="0" width="13" height="13" rx="1"/>
+    <rect x="15" y="0" width="13" height="13" rx="1"/>
+    <rect x="0" y="15" width="13" height="13" rx="1"/>
+    <rect x="15" y="15" width="13" height="13" rx="1"/>
+  </g>
+  <text x="66" y="30" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Download for Windows</text>
+  <text x="66" y="49" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" fill="#a9aeb8">Windows 10 and 11 · 64-bit</text>
+</svg>
