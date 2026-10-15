@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/ace-tour.gif" width="800" alt="A one-minute tour of Ace"><br>
-  <sub><a href="https://github.com/xmadbad/ace-releases/raw/main/assets/ace-tour.mp4">Watch the tour in full quality (MP4, one minute)</a></sub>
+  <a href="https://xmadbad.github.io/ace-releases/tour.html"><img src="assets/ace-tour.gif" width="800" alt="A one-minute tour of Ace"></a><br>
+  <sub>▶ <a href="https://xmadbad.github.io/ace-releases/tour.html">Watch the tour in full quality</a> (one minute, plays in your browser)</sub>
 </p>
 
 ## For creative directors with 214 open tabs
