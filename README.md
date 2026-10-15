@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://xmadbad.github.io/ace-releases/tour.html"><img src="assets/ace-tour.gif" width="800" alt="A one-minute tour of Ace"></a><br>
-  <sub>▶ <a href="https://xmadbad.github.io/ace-releases/tour.html">Watch the tour in full quality</a> (one minute, plays in your browser)</sub>
+  <sub>▶ <a href="https://xmadbad.github.io/ace-releases/tour.html">Watch the tour in full quality</a> (40 seconds, plays in your browser)</sub>
 </p>
 
 ## For creative directors with 214 open tabs
@@ -37,6 +37,53 @@ You find the perfect reference at 1 a.m. By the pitch it's "somewhere in Downloa
 | **Ship** | GIF, WebP, MP4, WebM or ProRes. Light enough for Slack, sharp enough for the deck, and squeezed under a max size when the client's inbox is picky. |
 | **Sequence** | Line up the best bits and export them as one file for the pitch. No editing software was harmed. |
 | **Stay sane** | One folder per job, saved as you go. Ctrl+Z for second thoughts. |
+
+## The cheat sheet
+
+Small habits, big difference. Steal these.
+
+**Keep the folders boring (boring is good)**
+- **One project per job.** New project, give it the job's name, done. Everything for that job lives in one folder: `sources` (what you grabbed), `images` (pictures), `gif` and `webp` (your exports), `video` (MP4, WebM, ProRes), and the project file that saves itself.
+- **Downloads stays clean.** Whatever you send from the browser goes into the open project, named after what it is, not `video (37).mp4`.
+- **Folders you already have** can become a project too (New project → *Use an existing folder…*). Ace only fills its own folders in there; your other files stay out of its list.
+- **Hand-over in one move.** Zip the project folder and send it. Everything's inside, and the paths travel with it.
+
+**Don't hoard gigabytes**
+- **Keep the moment, not the movie.** Mark it with **I** and **O**: exports only carry that part.
+- **GIFs sized for where they're going.** *Web* preset for Slack and decks, *Small* for email, or type a **Max size** (say 8 MB) and Ace squeezes it until it fits. Over 15 MB? "make it smaller" shows every preset with what it would weigh.
+- **Ace cleans up after itself.** Preview copies of heavy videos live in Ace's own cache and go after a month; renders you never saved go after two days.
+- **Done with a clip?** Right-click → *Remove*: a file Ace downloaded goes to the Recycle Bin / Trash, so the folder doesn't keep what you don't use.
+
+**Find it again**
+- **Recent projects** open in one click, exactly as you left them: every IN/OUT, crop, rotation, drawing and sound.
+- **Exports come back** in the Exports list when you reopen a project. Click one to jump back to the range it came from.
+- **Changed your mind?** Ctrl+Z (⌘Z) undoes edits, even sequence changes.
+
+**Cut fast**
+- **Right-click a video in Chrome → Ace.** It downloads into the project and opens.
+- **I, O, Enter.** In, out, into the queue. **Ctrl+Enter** (⌘Enter) renders everything that waits.
+- **Crop (R), rotate (Shift+R), draw (D).** 9:16 for socials, the sideways phone clip fixed, an arrow on the good bit.
+- **Several at once:** pick a few videos in the list and press Enter; each keeps its own IN/OUT and crop.
+
+**GIFs that behave**
+- **C** copies the last GIF: paste it straight into Slack, Figma or Keynote. Or drag it out of Exports.
+- **A GIF you downloaded as it is** isn't encoded again: it's copied, so it stays exactly the same.
+- Need it for After Effects instead? **ProRes 4444** keeps transparency; **MP4** for everything else.
+
+**Collect pictures, not tabs**
+- **Right-click a picture → Ace.** It lands in `images` and is already copied, so you can paste it into the moodboard right away.
+- **Pick a few** with the round box in a picture's corner, then **Copy**: they all go together.
+- **Convert** a pile of pictures to JPG, PNG, WebP or AVIF in one go, without a single "Save as".
+
+**Pitch day**
+- **Sequence:** drag the best clips onto the track under the timeline and export them as one file. One link in the email instead of nine.
+
+## Who uses it how
+
+- **Creative directors:** build the reference pile per pitch, cut the three seconds that sell the idea, send one sequence.
+- **Art directors and designers:** GIFs and stills for moodboards and decks, pictures copied straight into Figma.
+- **Editors and motion designers:** clean ProRes (with alpha) or MP4 references for the timeline; speed keys to test a ramp before the real edit.
+- **Producers:** one folder per job, ready to zip and hand over when the project changes hands.
 
 ## Install in a minute
 
@@ -60,4 +107,4 @@ From then on Ace keeps itself up to date: a **New version** button shows up at t
 
 ---
 
-<sub>© 2026 Studio Whirl Motion Ltd. Ace is free to use, for personal or commercial work; please don't share, change, sell or re-upload Ace itself. Ace runs ffmpeg, yt-dlp, gifsicle and libwebp, each under its own license.</sub>
+<sub>© 2026 Studio Whirl Motion Ltd. Ace is free to use, for personal or commercial work; please don't share, change, sell or re-upload Ace itself. Ace runs ffmpeg, yt-dlp, gifsicle and libwebp, each under its own license. The tour shows clips from <a href="https://durian.blender.org">Sintel</a> and <a href="https://www.bigbuckbunny.org">Big Buck Bunny</a>, © Blender Foundation, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</sub>
