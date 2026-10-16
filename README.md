@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://xmadbad.github.io/ace-releases/tour.html"><img src="assets/ace-tour.gif" width="800" alt="A one-minute tour of Ace"></a><br>
-  <sub>▶ <a href="https://xmadbad.github.io/ace-releases/tour.html">Watch the tour in full quality</a> (40 seconds, plays in your browser)</sub>
+  <sub>▶ <a href="https://xmadbad.github.io/ace-releases/tour.html">Watch the tour in full quality</a> (43 seconds, plays in your browser)</sub>
 </p>
 
 ## For creative directors with 214 open tabs
@@ -35,7 +35,7 @@ You find the perfect reference at 1 a.m. By the pitch it's "somewhere in Downloa
 | **Fix** | Crop to 9:16 or 4:5. Rotate the one somebody filmed sideways. Make the green screen transparent. |
 | **Point** | Arrows, boxes, circles and words, right on the video. "This bit" explains itself. |
 | **Ship** | GIF, WebP, MP4, WebM or ProRes. Light enough for Slack, sharp enough for the deck, and squeezed under a max size when the client's inbox is picky. |
-| **Sequence** | Line up the best bits and export them as one file for the pitch. No editing software was harmed. |
+| **Sequence** | Line up the best bits, scrub and trim them like an edit, export one file for the pitch. No editing software was harmed. |
 | **Stay sane** | One folder per job, saved as you go. Ctrl+Z for second thoughts. |
 
 ## The cheat sheet
