@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://xmadbad.github.io/ace-releases/tour.html"><img src="assets/ace-tour.gif" width="800" alt="A one-minute tour of Ace"></a><br>
-  <sub>▶ <a href="https://xmadbad.github.io/ace-releases/tour.html">Watch the tour in full quality</a> (43 seconds, plays in your browser)</sub>
+  <sub>▶ <a href="https://xmadbad.github.io/ace-releases/tour.html">Watch the tour in full quality</a> (45 seconds, plays in your browser)</sub>
 </p>
 
 ## For creative directors with 214 open tabs
@@ -36,7 +36,8 @@ You find the perfect reference at 1 a.m. By the pitch it's "somewhere in Downloa
 | **Point** | Arrows, boxes, circles and words, right on the video. "This bit" explains itself. |
 | **Ship** | GIF, WebP, MP4, WebM or ProRes. Light enough for Slack, sharp enough for the deck, and squeezed under a max size when the client's inbox is picky. |
 | **Sequence** | Line up the best bits, scrub and trim them like an edit, export one file for the pitch. No editing software was harmed. |
-| **Stay sane** | One folder per job, saved as you go. Ctrl+Z for second thoughts. |
+| **Ask** | Or tell Claude what you need ("the three seconds with the dragon, as a GIF under 2 MB"). Ace does it in its own window, where you can watch. |
+| **Stay sane** | One folder per job, or the studio's whole job folder, saved as you go. Ctrl+Z for second thoughts. |
 
 ## The cheat sheet
 
@@ -44,7 +45,9 @@ Small habits, big difference. Steal these.
 
 **Keep the folders boring (boring is good)**
 - **One project per job.** New project, give it the job's name, done. Everything for that job lives in one folder: `sources` (what you grabbed), `images` (pictures), `gif` and `webp` (your exports), `video` (MP4, WebM, ProRes), and the project file that saves itself.
+- **The studio's job folder, made for you.** New project → *Full job folder*: `PI_108_SPRING_CAMPAIGN` with 01_AFX to 11_ASSETS, and Ace's part in 04_FOOTAGE\ACE. A project that turned into a job moves in later (Project → *Move into a job folder…*).
 - **Downloads stays clean.** Whatever you send from the browser goes into the open project, named after what it is, not `video (37).mp4`.
+- **Canva or Magnific saving somewhere else?** Project → *Watch a folder…*: what those apps save shows up in the project by itself, used right where it is.
 - **Folders you already have** can become a project too (New project → *Use an existing folder…*). Ace only fills its own folders in there; your other files stay out of its list.
 - **Hand-over in one move.** Zip the project folder and send it. Everything's inside, and the paths travel with it.
 
@@ -87,11 +90,11 @@ Small habits, big difference. Steal these.
 
 ## Install in a minute
 
-**Windows.** Run `Ace-Setup.exe`. Windows gets cautious ("Windows protected your PC"): click **More info**, then **Run anyway**. The installer isn't signed yet; it's shy, not shady.
+**Windows.** Run `Ace-Setup.exe`. Windows gets cautious ("Windows protected your PC"): click **More info**, then **Run anyway**. The installer isn't signed yet; it's shy, not shady. It asks two things, Connect Ace to Claude and Add Ace to my browser: leave both ticked.
 
 **Mac (Apple silicon).** Open `Ace-mac.dmg` and drag Ace to Applications. The first time, macOS says no: **System Settings → Privacy & Security → Open Anyway**.
 
-**Chrome.** After the short tour Ace offers its browser extension: three steps, and it ticks them off as you go.
+**Chrome, Edge or Brave.** Ace opens with its browser extension's three steps (on a Mac, after the short tour), and ticks them off as you go.
 
 From then on Ace keeps itself up to date: a **New version** button shows up at the top right.
 
@@ -99,7 +102,9 @@ From then on Ace keeps itself up to date: a **New version** button shows up at t
 
 **Is it really free?** Yes, for personal and commercial work. What you make with it is yours.
 
-**Does it send my work anywhere?** No. It downloads what you ask for, and looks here for new versions. That's the whole guest list.
+**Does it send my work anywhere?** No. It downloads what you ask for, and looks here for new versions. If you connect it to Claude, Claude sees the names, lengths and settings it asks about, never the videos. That's the whole guest list.
+
+**Can Claude drive it?** Yes. Leave "Connect Ace to Claude" ticked when you install (or Help → Claude later), restart Claude Desktop or Claude Code, and ask: "download these three links and cut the three seconds that sell it, as a GIF under 2 MB". Ace does it in its own window, where you can watch. Claude asks what you do first, so the advice fits.
 
 **Intel Mac?** Not for now: Apple silicon only.
 
