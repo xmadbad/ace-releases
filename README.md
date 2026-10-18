@@ -54,7 +54,7 @@ Small habits, big difference. Steal these.
 **Don't hoard gigabytes**
 - **Keep the moment, not the movie.** Mark it with **I** and **O**: exports only carry that part.
 - **GIFs sized for where they're going.** *Web* preset for Slack and decks, *Small* for email, or type a **Max size** (say 8 MB) and Ace squeezes it until it fits. Over 15 MB? "make it smaller" shows every preset with what it would weigh.
-- **Ace cleans up after itself.** Preview copies of heavy videos live in Ace's own cache and go after a month; renders you never saved go after two days.
+- **Ace cleans up after itself.** Preview copies of heavy videos live in Ace's own cache and go after two weeks (Help says what they take, lets you pick how long and how big, and clears them in one click); renders you never saved go after two days.
 - **Done with a clip?** Right-click → *Remove*: a file Ace downloaded goes to the Recycle Bin / Trash, so the folder doesn't keep what you don't use.
 
 **Find it again**
@@ -67,11 +67,13 @@ Small habits, big difference. Steal these.
 - **I, O, Enter.** In, out, export: it renders in the background while you mark the next one. Rather line them up first? Options → *Collect exports in the queue first*, then **Ctrl+Enter** (⌘Enter) renders them all.
 - **Crop (R), rotate (Shift+R), draw (D).** 9:16 for socials, the sideways phone clip fixed, an arrow on the good bit.
 - **Several at once:** pick a few videos in the list and press Enter; each keeps its own IN/OUT and crop.
+- **Long video?** Ctrl + wheel over the timeline (⌘ + wheel or a pinch on a Mac) zooms in, right down to single frames; the wheel moves along. Drag the edge under the viewer up for a taller timeline with bigger frames.
+- **Settings in a column:** the button at the right of Export settings puts them beside the stage, one under another, as wide as you like.
 
 **GIFs that behave**
 - **C** copies the last GIF: paste it straight into Slack, Figma or Keynote. Or drag it out of Exports.
 - **A GIF you downloaded as it is** isn't encoded again: it's copied, so it stays exactly the same.
-- Need it for After Effects instead? **ProRes 4444** keeps transparency; **MP4** for everything else.
+- Need it for After Effects instead? **ProRes 4444** keeps transparency; **MP4** for everything else. MP4 matches the source's quality on its own, or set CBR or VBR at the bitrate you type, as in Premiere.
 
 **Collect pictures, not tabs**
 - **Right-click a picture → Ace.** It lands in `images` and is already copied, so you can paste it into the moodboard right away.
