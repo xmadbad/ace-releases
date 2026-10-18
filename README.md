@@ -64,7 +64,7 @@ Small habits, big difference. Steal these.
 
 **Cut fast**
 - **Right-click a video in Chrome → Ace.** It downloads into the project and opens.
-- **I, O, Enter.** In, out, into the queue. **Ctrl+Enter** (⌘Enter) renders everything that waits.
+- **I, O, Enter.** In, out, export: it renders in the background while you mark the next one. Rather line them up first? Options → *Collect exports in the queue first*, then **Ctrl+Enter** (⌘Enter) renders them all.
 - **Crop (R), rotate (Shift+R), draw (D).** 9:16 for socials, the sideways phone clip fixed, an arrow on the good bit.
 - **Several at once:** pick a few videos in the list and press Enter; each keeps its own IN/OUT and crop.
 
@@ -104,7 +104,7 @@ From then on Ace keeps itself up to date: a **New version** button shows up at t
 
 **Does it send my work anywhere?** No. It downloads what you ask for, and looks here for new versions. If you connect it to Claude, Claude sees the names, lengths and settings it asks about, never the videos. That's the whole guest list.
 
-**Can Claude drive it?** Yes. Leave "Connect Ace to Claude" ticked when you install (or Help → Claude later), restart Claude Desktop or Claude Code, and ask: "download these three links and cut the three seconds that sell it, as a GIF under 2 MB". Ace does it in its own window, where you can watch. Claude asks what you do first, so the advice fits.
+**Can Claude drive it?** Yes. Leave "Connect Ace to Claude" ticked when you install (or Help → Claude later), restart Claude Desktop or Claude Code, and ask: "download these three links and cut the three seconds that sell it, as a GIF under 2 MB". Ace does it in its own window, where you can watch. The first time, Claude shows you around in a few lines.
 
 **Intel Mac?** Not for now: Apple silicon only.
 
