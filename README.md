@@ -104,9 +104,9 @@ From then on Ace keeps itself up to date: a **New version** button shows up at t
 
 **Is it really free?** Yes, for personal and commercial work. What you make with it is yours.
 
-**Does it send my work anywhere?** No. It downloads what you ask for, and looks here for new versions. If you connect it to Claude, Claude sees the names, lengths and settings it asks about, never the videos. That's the whole guest list.
+**Does it send my work anywhere?** No. It downloads what you ask for, and looks here for new versions. If you connect it to Claude, Claude sees what it asks Ace about: names, folders, lengths and settings, frames of a video when it looks at one for you, and a measure of its sound when it listens. That's the whole guest list.
 
-**Can Claude drive it?** Yes. Leave "Connect Ace to Claude" ticked when you install (or Help → Claude later), restart Claude Desktop or Claude Code, and ask: "download these three links and cut the three seconds that sell it, as a GIF under 2 MB". Ace does it in its own window, where you can watch. The first time, Claude shows you around in a few lines.
+**Can Claude drive it?** Yes. Leave "Connect Ace to Claude" ticked when you install (or Help → Connect to Claude later), restart Claude Desktop or Claude Code, and ask: "download these three links and cut the three seconds that sell it, as a GIF under 2 MB". Ace does it in its own window, where you can watch. The first time, Claude shows you around in a few lines.
 
 **Intel Mac?** Not for now: Apple silicon only.
 
