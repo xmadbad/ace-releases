@@ -34,8 +34,9 @@ You find the perfect reference at 1 a.m. By the pitch it's "somewhere in Downloa
 | **Cut** | **I** and **O** mark the moment. The other 57 seconds can stay on the internet. |
 | **Fix** | Crop to 9:16 or 4:5. Rotate the one somebody filmed sideways. Make the green screen transparent. |
 | **Point** | Arrows, boxes, circles and words, right on the video. "This bit" explains itself. |
-| **Ship** | GIF, WebP, MP4, WebM or ProRes. Light enough for Slack, sharp enough for the deck, and squeezed under a max size when the client's inbox is picky. |
+| **Ship** | GIF, WebP, MP4, H.265, WebM or ProRes. Light enough for Slack, sharp enough for the deck, and squeezed under a max size when the client's inbox is picky. |
 | **Sequence** | Line up the best bits, scrub and trim them like an edit, export one file for the pitch. No editing software was harmed. |
+| **Compare** | The upscale came back. Is it actually better? Put it over the original with a line you drag, or side by side: they play in step and zoom together. |
 | **Ask** | Or tell Claude what you need ("the three seconds with the dragon, as a GIF under 2 MB"). Ace does it in its own window, where you can watch. |
 | **Stay sane** | One folder per job, or the studio's whole job folder, saved as you go. Ctrl+Z for second thoughts. |
 
@@ -49,6 +50,7 @@ Small habits, big difference. Steal these.
 - **Downloads stays clean.** Whatever you send from the browser goes into the open project, named after what it is, not `video (37).mp4`.
 - **Canva or Magnific saving somewhere else?** Project → *Watch a folder…*: what those apps save shows up in the project by itself, used right where it is.
 - **Folders you already have** can become a project too (New project → *Use an existing folder…*). Ace only fills its own folders in there; your other files stay out of its list.
+- **Names that say what they are.** The Name row under Format: a name of your own, and a suffix that counts versions past what's already in the folder (`_v01`, `_v02`), the date, the size, or your own (`_client_{v}`). Goodbye, final_FINAL_v3.
 - **Hand-over in one move.** Zip the project folder and send it. Everything's inside, and the paths travel with it.
 
 **Don't hoard gigabytes**
@@ -66,6 +68,7 @@ Small habits, big difference. Steal these.
 - **Right-click a video in Chrome → Ace.** It downloads into the project and opens.
 - **I, O, Enter.** In, out, export: it renders in the background while you mark the next one. Rather line them up first? Options → *Collect exports in the queue first*, then **Ctrl+Enter** (⌘Enter) renders them all.
 - **Crop (R), rotate (Shift+R), draw (D).** 9:16 for socials, the sideways phone clip fixed, an arrow on the good bit.
+- **A video on the desktop?** Right-click → *Open with* → **Ace**: it goes into the open project. Your default player stays your default.
 - **Several at once:** pick a few videos in the list and press Enter; each keeps its own IN/OUT and crop.
 - **Long video?** Ctrl + wheel over the timeline (⌘ + wheel or a pinch on a Mac) zooms in, right down to single frames; the wheel moves along. Drag the edge under the viewer up for a taller timeline with bigger frames.
 - **Settings in a column:** the button at the right of Export settings puts them beside the stage, one under another, as wide as you like.
@@ -74,6 +77,11 @@ Small habits, big difference. Steal these.
 - **C** copies the last GIF: paste it straight into Slack, Figma or Keynote. Or drag it out of Exports.
 - **A GIF you downloaded as it is** isn't encoded again: it's copied, so it stays exactly the same.
 - Need it for After Effects instead? **ProRes 4444** keeps transparency; **MP4** for everything else. MP4 matches the source's quality on its own, or set CBR or VBR at the bitrate you type, as in Premiere.
+- **H.265 (10-bit)** for the uploader that turns ProRes away (web upscalers, mostly): about ProRes 422 HQ's quality at a tenth of the size.
+
+**Before and after**
+- **Compare two versions.** Pick two in the list (Ctrl+click, ⌘+click on a Mac), right-click → *Compare the two*: one over the other with a line you drag, or side by side. They play together from IN, and one zoom shows the same pixels in both.
+- **Only for your eyes** (and the client's, over your shoulder): nothing is exported.
 
 **Collect pictures, not tabs**
 - **Right-click a picture → Ace.** It lands in `images` and is already copied, so you can paste it into the moodboard right away.
@@ -87,7 +95,7 @@ Small habits, big difference. Steal these.
 
 - **Creative directors:** build the reference pile per pitch, cut the three seconds that sell the idea, send one sequence.
 - **Art directors and designers:** GIFs and stills for moodboards and decks, pictures copied straight into Figma.
-- **Editors and motion designers:** clean ProRes (with alpha) or MP4 references for the timeline; speed keys to test a ramp before the real edit.
+- **Editors and motion designers:** clean ProRes (with alpha) or MP4 references for the timeline; speed keys to test a ramp before the real edit; an upscale checked against its source.
 - **Producers:** one folder per job, ready to zip and hand over when the project changes hands.
 
 ## Install in a minute
